@@ -29,7 +29,7 @@ cd srucious
 chmod +x srucious.sh
 ```
 ```sh
-./srucious.sh www.google.com/ urls-list.txt
+./srucious.sh www.google.com/ dir.txt
 ```
 
 For termux users...
@@ -45,7 +45,7 @@ cd srucious
 chmod +x srucious.sh
 ```
 ```sh
-bash srucious.sh www.google.com/ 
+bash srucious.sh www.google.com/ dir.txt
 ```
 
 
