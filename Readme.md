@@ -2,7 +2,7 @@
 ## _Basic tool for directory busting, in bash script_
 
 
-[![Instagram link](https://www.instagram.com/fratellos811)](https://www.instagram.com/fratellos811/)
+[![Instagram link](srucious.jpg)](https://www.instagram.com/fratellos811/)
 
 Srucious is an directory busting tool, which can be really greatful in directory brute-force. Currently this tool only scans for http protocol howver in coming days it would be updated to scan other protocol as well. For http protocol is send a message that the website is being moved however it can be considered that the directory is present. With coming days this tool will be highly modified and made more beginner friendly.
 
