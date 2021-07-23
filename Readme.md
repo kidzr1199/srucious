@@ -21,7 +21,9 @@ Srucious is an directory busting tool, which can be really greatful in directory
 
 ## Installation
 
-
+```sh
+https://github.com/kidzr1199/srucious
+```
 ```sh
 cd srucious
 ```
@@ -34,6 +36,10 @@ chmod +x srucious.sh
 
 For termux users...
 
+
+```sh
+https://github.com/kidzr1199/srucious
+```
 ```sh
 cd srucious
 ```
