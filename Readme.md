@@ -1,5 +1,5 @@
-[![Srucious](https://github.com/kidzr1199/srucious/blob/main/Srucious.jpg)]
-(https://www.instagram.com/fratellos811/)
+[![Srucious](https://github.com/kidzr1199/srucious/blob/main/Srucious.jpg)](https://www.instagram.com/fratellos811/)
+
 # Srucious
 ### Basic web directory bruteforcer tool written in bash. 
 
@@ -35,6 +35,7 @@ bash srucious.sh www.example.com/ wordlist.
 ```
 
 > Note: `bash srucious.sh www.example.com/ directory.txt` is required format. 
+> Donot forget to add backslash(/) at the end of url
 
 Thank you for using the tool
 : by kidzr
