@@ -22,19 +22,19 @@ The installation process is same for both Linux users as well as termux users.
 
 ```
 #Fire up your terminal and make sure you have git!
-git clone https://github.com/kidzr1199/srucious
+$git clone https://github.com/kidzr1199/srucious
 
 #Change the directory
-cd srucious
+$cd srucious
 
 #Give executable permission to the script
-chmod +x srucious.sh
+$chmod +x srucious.sh
 
 #Now execute the following command in your terminal
-bash srucious.sh www.example.com/ wordlist.
+$bash srucious.sh www.example.com/ wordlist.
 ```
 
-> Note: `bash srucious.sh www.example.com/ directory.txt` is required format. 
+> Note: `$bash srucious.sh www.example.com/ directory.txt` is required format. 
 > Donot forget to add backslash(/) at the end of url
 
 Thank you for using the tool
